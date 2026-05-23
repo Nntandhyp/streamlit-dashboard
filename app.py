@@ -13,7 +13,7 @@ st.set_page_config(
 df = pd.read_csv("dataset_bersih.csv")
 
 # TITLE
-st.title("📊 Dashboard Analisis Dataset")
+st.title("Dashboard Analisis Dataset")
 st.write("Visualisasi dataset hasil preprocessing dan augmentasi.")
 
 # SIDEBAR
