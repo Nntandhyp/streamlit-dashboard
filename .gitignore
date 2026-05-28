@@ -1,0 +1,9 @@
+*.jar
+*.json
+*.log
+__pycache__/
+.vscode/
+*.pyc
+.ipynb_checkpoints/
+*.pkl
+*.keras
